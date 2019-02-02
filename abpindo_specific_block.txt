@@ -117,6 +117,13 @@
 ||indotelko.com/inc/banner.css
 ||indotelko.com/inc/c_banner.js
 ||ioredi.com^$script,domain=mangakita.net
+||indoxxi.bz###home-bnner-content
+||indoxxi.bz###home-bnner2-content
+||indoxxi.bz###player-side-left
+||indoxxi.bz###player-side-right
+||img.akubebas.com/images/bground.png$image
+||img.akubebas.com/images/b*.$image
+||indoxxi.bz###jwflag
 ||jagatreview.com/wp-content/uploads/*-SKIN-
 ||jasjus.net^$popup
 ||javapic.com^$third-party
